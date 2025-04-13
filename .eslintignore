@@ -1,0 +1,11 @@
+.next
+node_modules
+out
+build
+dist
+*.min.js
+*.min.css
+public
+coverage
+*.config.js
+*.config.mjs 
